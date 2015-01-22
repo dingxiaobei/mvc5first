@@ -76,6 +76,5 @@ namespace FirstProject.Models
         /// </summary>
         public DateTime LoginIP { get; set; }
 
-        public virtual UserGroup Group { get; set; }
     }
 }
